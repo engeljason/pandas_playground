@@ -82,4 +82,3 @@ Analyze transaction data from a game and display various result tables
   * Purchase Count
   * Item Price
   * Total Purchase Value
-
